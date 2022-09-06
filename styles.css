@@ -1,0 +1,87 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    display:block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.container {
+    border: 1px solid darkgrey;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.colour-container {
+    width: 100%;
+}
+
+.colour-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.beige {
+    background-color: #efd9ca;
+    color: white;
+}
+
+.blood-orange {
+    background-color: #e85a4f;
+    color: white;
+}
+
+.dark-grey {
+    background-color: #575757;
+    color: white;
+}
+
+.font-container {
+    width: 100%;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+    margin: 15px auto;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.Garamond {
+    font-family: Garamond;
+}
+
+.Nunito {
+    font-family: Nunito;
+}
+
+p {
+    display: block;
+}
